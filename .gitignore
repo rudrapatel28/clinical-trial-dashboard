@@ -1,0 +1,4 @@
+cell_trial.db
+__pycache__/
+*.pyc
+.env
